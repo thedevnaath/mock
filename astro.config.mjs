@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://thedevnaath.github.io',
-  base: '/britechit',
+  base: '/mock',
   devToolbar: {
     enabled: false,
   },
